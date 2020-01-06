@@ -13,7 +13,6 @@
     1. Train and test with other dataset that has multiple sentiment
     2. Market demand
     
-    
 4. **Future improvement**
     1. Train with other dataset that has multiple sentiment
     2. Improve to implement a real chatbot
