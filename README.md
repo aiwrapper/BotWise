@@ -15,8 +15,8 @@
     
     
 4. **Future improvement**
-    - Train with other dataset that has multiple sentiment
-    - Improve to implement a real chatbot
+    1. Train with other dataset that has multiple sentiment
+    2. Improve to implement a real chatbot
 
 
 To get the model check point file, you can either  
